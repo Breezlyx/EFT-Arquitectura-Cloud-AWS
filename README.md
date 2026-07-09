@@ -9,7 +9,7 @@ La solución tecnológica se basa en los modelos de provisión IaaS y PaaS, estr
 - **Capa de Datos (Privada):** Base de datos Amazon RDS (MySQL) en configuración Multi-AZ (limitado a Free Tier por restricciones de IAM en el entorno educativo).
 - **Almacenamiento Global:** Amazon S3 para recursos estáticos.
 
-![Diagrama de Arquitectura](diagrama_arquitectura.png)
+![Diagrama de Arquitectura](Arquitectura_AWS.jpg)
 
 ## Archivos del Proyecto
 
